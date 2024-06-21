@@ -1,5 +1,5 @@
 # Shell
 Download shell script for VM with my configuration (alias, update, etc...)
 
-
-echo "Hello word"
+# Don't forget replace "dnf or apt" before launch script 
+# Add "+x" for execution 
